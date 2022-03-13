@@ -48,7 +48,7 @@ Understanding how to use the twitter API
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Julio Alva]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
